@@ -16,7 +16,7 @@ To use the Kanban Board, simply visit the hosted link provided below and start m
 
 ## Hosted Link
 
-The Kanban Board is hosted at [https://https://bhumika-dg.github.io/Kanban-Board/](https://https://bhumika-dg.github.io/Kanban-Board/).
+The Kanban Board is hosted at [https://bhumika-dg.github.io/Kanban-Board/](https://bhumika-dg.github.io/Kanban-Board/).
 
 ## Development
 
